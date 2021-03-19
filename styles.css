@@ -1,0 +1,157 @@
+nav
+{
+    font-family: 'Lato', sans-serif;
+}
+h3
+{
+    font-family: "Montserrat-Bold";
+    margin-bottom: 5%;
+}
+h2
+{
+    font-family: "Montserrat-Bold"
+}
+a
+{
+    text-decoration: none;
+}
+svg
+{
+    margin: 10px;
+}
+#title
+{
+    max-width: 100%;
+    height: 100vh;
+    background:  linear-gradient(rgba(57,62,70,.42),rgba(57,62,70,.42)), url("Images/coach.jpg") center fixed no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+
+.button-aboutproject
+{
+
+    padding-top: 400px;
+}
+.button1
+{
+    background: transparent;
+    border-radius: 25px;
+    border: solid #314e52;
+}
+
+.bg-dark
+{
+    background: transparent !important;
+    transition:0.75s ease;
+}
+
+.bg-dark.scrolled
+{
+    background: #000 !important;
+}
+
+.nav-item
+{
+    margin-right: 10px;
+}
+
+.nav-link
+{
+    margin-left: 22px;
+}
+
+.image-coach
+{
+    width:30%;
+    margin-top: 15%;
+
+    
+}
+.btn-more
+{
+    margin: 5% 0 2.5% 0;
+}
+
+.cel
+{
+    line-height: 1.5;
+    text-align: justify;
+}
+
+#features
+{
+    margin: 5% 5% 5% 5%;
+    text-align: center;
+}
+.flags
+{
+    width: 20%;
+    margin: 5%; 
+}
+
+/*clubs*/
+#clubs
+{
+    padding: 5%;
+    max-width: 100%;
+    height: 20%;
+    position: relative;
+    text-align: center;
+     background-color: #63686e;
+    color: white;
+
+/*    opacity: 0.7;*/
+    
+}
+
+/*Contact*/
+#contact
+{
+    padding: 5%;
+    text-align: center;
+}
+.orly-img
+{
+    width: 30%;
+    margin: 5% 0 5% 20px;
+    
+}
+
+.telephone-img
+{
+    width: 7.5%;
+    height:20%;
+    margin: 5% 5% 5% 5%;
+}
+
+
+/*fotter*/
+#footer
+{
+    padding: 5%;
+    max-width: 100%;
+    text-align: center;
+    background-color: #63686e;
+    color: white;
+/*    opacity: 0.7;*/
+}
+
+@media (max-width:600px)
+{
+    #title
+    {
+    max-width: 100%;
+    height: 100vh;
+    background:  linear-gradient(rgba(57,62,70,.42),rgba(57,62,70,.42)), url("Images/coach1.jpg") fixed center no-repeat;
+    background-size: cover;
+    position: relative;
+    }
+    
+    .telephone-img
+    {
+    width: 7.5%;
+    height:100%;
+}
+}

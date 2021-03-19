@@ -1,0 +1,93 @@
+nav
+{
+    font-family: 'Lato', sans-serif;
+}
+
+h1
+{
+    margin: 100px 0 40px 0;
+}
+h4
+{
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+a
+{
+    text-decoration: none;
+}
+
+dt
+{
+    margin-top: 2.5%;
+    margin-bottom: 1%;
+}
+svg
+{
+    margin: 10px;
+}
+
+.nav-link
+{
+    margin-left: 22px;
+}
+
+.nav-item
+{
+    margin-right: 10px;
+}
+
+.Unia
+{
+    text-align: center;
+}
+
+.eu-img
+{
+    margin-top:2.5%;
+   margin-bottom: 7.5%; 
+}
+.needs
+{
+    padding: 3%;
+    max-width: 100%;
+    height: 20%;
+    position: relative;
+    text-align: center;
+     background-color: #63686e;
+    color: white;
+}
+.actions-in-project
+{
+    margin: 0 15% 5% 15%;
+}
+.needs-img
+{
+    width: 15%;
+
+    margin: 50px 0 50px 0;
+}
+
+
+.plans
+{
+    margin: 2.5% 5% 2.5% 5%;
+}
+
+.education
+{
+    width: 10%;
+    margin-top: 5%;
+}
+
+
+/*fotter*/
+#footer
+{
+    padding: 5%;
+    max-width: 100%;
+    text-align: center;
+    background-color: #63686e;
+    color: white;
+/*    opacity: 0.7;*/
+}

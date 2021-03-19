@@ -1,0 +1,154 @@
+nav
+{
+    font-family: 'Lato', sans-serif;
+}
+
+h2
+{
+    margin: 2.5% 0 2.5% 0;
+}
+
+h3
+{
+    margin:  50px 0 2.5% 0;
+    font-family: "Montserrat-Bold";
+}
+
+
+a
+{
+    text-decoration: none;
+}
+svg
+{
+    margin: 10px;
+}
+
+.nav-item
+{
+    margin-right: 10px;
+}
+.nav-link
+{
+    margin-left: 22px;
+}
+
+main
+{
+    margin-top: 100px;
+}
+
+
+
+.orly-img
+{
+    
+    margin-top: 10%;
+    margin-left:40px;
+    width: 60%;
+    text-align: center;
+}
+.orly
+{
+    margin: 10px 0 0 0;
+}
+
+.orly-text
+{
+    margin: 0 20px 0 20px;
+}
+
+.img-web
+{
+text-align: center;
+
+}
+.img-pages
+{
+    width: 17.5%;
+    margin: 5% 12.5%;
+}
+.btn
+{
+    margin-bottom: 10%;
+}
+
+
+
+
+#hungary-club
+
+{
+    padding: 5% 5% 1.5% 2.5%;
+    max-width: 100%;
+    height: 20%;
+    position: relative;
+    text-align: center;
+     background-color: #63686e;
+    color: white;
+}
+
+.hungary-part
+{
+    margin: 5% 5% 2.5% 5%;
+}
+
+.hungary-img
+{
+    margin-top: 20%;
+    margin-bottom: 10%;
+    width: 42%;
+}
+.hidasenmeti-vasuas{
+    padding: 0 5%;
+}
+
+.row
+{
+           --bs-gutter-x: 0;
+}
+
+.hidasenmeti-vasuas h2{
+    margin-bottom: 8%;
+}
+.img-of-sports
+{
+    text-align: center
+}
+.img-sports
+{   
+    margin: 20% 7.5% 15% 7.5%;
+          height: 15%;
+    width: 7.5%;
+}
+
+
+.trnkov
+{
+    margin: 45px 0 25px 0;
+}
+
+.trnkov-text
+{
+    margin: 5% 5% 7.5% 5%
+}
+
+.trnkov-img
+{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 50%;
+}
+
+
+
+
+#footer
+{
+    padding: 5%;
+    max-width: 100%;
+    text-align: center;
+    background-color: #63686e;
+    color: white;
+/*    opacity: 0.7;*/
+}
